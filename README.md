@@ -42,4 +42,4 @@ final kolom = switch (constraints.maxWidth) {
 Menggunakan batas 720 dp. Layar sempit menyusun foto dan deskripsi secara vertikal (ListView), sedangkan layar lebar menyusunnya berdampingan (Row).
 
 ### D. Pernyataan Penggunaan AI
-Saya menggunakan template pratikum dari modul pertemuan 6 untuk membangun aplikasi CeritaDestinasi ini, lalu saya tambahkan dan ubah sesuai kebutuhan aplikasi seperti objek dari produk menjadi destinasi, menambah field kabupatenKota, harga tiket, gambar dll. Kemudian saya gunakan AI untuk membantu saya menambahkan hal-hal yg belum ada di template sebelumnya seperti gambar yg dibungkus stack dan menambah tab baru yaitu kategori.
+Saya menggunakan template pratikum dari modul pertemuan 6 untuk membangun aplikasi CeritaDestinasi ini (ada di repo pm-p6-pratikum-4243250017), lalu saya tambahkan dan ubah sesuai kebutuhan aplikasi seperti objek dari produk menjadi destinasi, menambah field kabupatenKota, harga tiket, gambar dll. Kemudian saya gunakan AI untuk membantu saya menambahkan hal-hal yg belum ada di template sebelumnya seperti gambar yg dibungkus stack dan menambah tab baru yaitu kategori.
